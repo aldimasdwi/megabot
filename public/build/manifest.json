@@ -1,0 +1,17 @@
+{
+  "resources/assets/admin/scss/admin.scss": {
+    "file": "assets/admin-e890d31b.css",
+    "isEntry": true,
+    "src": "resources/assets/admin/scss/admin.scss"
+  },
+  "resources/assets/frontend/scss/color1.scss": {
+    "file": "assets/color1-09f65814.css",
+    "isEntry": true,
+    "src": "resources/assets/frontend/scss/color1.scss"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-0d91dc04.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "mohsenabrishami/stethoscope",
+    "description": "laravel server monitoring",
+    "keywords": [
+        "stethoscope",
+        "server monitoring",
+        "laravel"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/MohsenAbrishami/stethoscope",
+    "authors": [
+        {
+            "name": "Mohsen Abrishami",
+            "email": "mohsenabrishami.ma@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "MohsenAbrishami\\Stethoscope\\": "src/",
+            "MohsenAbrishami\\Stethoscope\\Database\\Factories\\": "database/factories/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-f": "vendor/bin/phpunit --filter"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MohsenAbrishami\\Stethoscope\\StethoscopeServiceProvider"
+            ]
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^7.11",
+        "phpunit/phpunit": "^9.5"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,0 +1,71 @@
+{
+    "general": {
+      "chatGPTKey":"",
+      "site_title": "MEGABOT",
+      "splashLogo":"",
+      "drawerLogo":"",
+      "homeLogo":"",
+      "site_tagline": "Laravel Multi Vendor Ecommerce",
+      "default_timezone": "Asia/Dhaka",
+      "default_currency": "USD",
+      "default_language": "en",
+      "min_order_amount": 0,
+      "default_delivery": 1,
+      "front_site_language_direction": "LTR",
+      "admin_site_language_direction": "LTR",
+      "product_sku_prefix": "MEGABOT",
+      "copyright": "2022 © MEGABOT"
+    },
+    "ad_Banner": {
+      "bannerAddId": "",
+      "bannerIOSId": ""
+    },
+    "ad_rewarded": {
+      "rewardAndroidId":"",
+      "rewardIOSId":""
+    },
+    "Ad_Interstitial": {
+      "interstitialAdIdAndroid":"",
+      "interstitialAdIdIOS":""
+    },
+    "facebookAd":{
+      "facebookAddAndroidId":"",
+      "facebookInterstitialAd":"",
+      "facebookRewardAd":""
+    },
+    "payment_methods": {
+      "stripe": {
+        "key": "pk_HUWQkO0yyWARKyWSXOjjBXFrvwDD00kYOLnaBQ",
+        "secret": "sk_HUWQkO0yyWARKyWSXOjjBXFrvwDD00kYOLnaBQ",
+        "status": 1
+      },
+      "paypal": {
+        "clint_id": "paypal_clint_id",
+        "clint_secret": "paypal_clint_secret",
+        "status": 1
+      },
+      "razorpay": {
+        "key": "RAZORPAY_KEY",
+        "secret": "RAZORPAY_SECRET",
+        "status": 1
+      }
+    },
+    "privacyPolicyLink":"",
+    "email": {
+      "mail_mailer": "smtp",
+      "mail_host": "smtp.gmail.com",
+      "mail_port": 587,
+      "mail_username": "test@gmail.com",
+      "mail_password": "axkfnsasfkaxwkz",
+      "mail_encryption": "ssl",
+      "mail_from_address": "test@gmail.com",
+      "mail_from_name": "no-reply",
+      "mailgun_domain": "mailgun_domain",
+      "mailgun_secret": "xxxxxxxxxxxxxx"
+    },
+    "reteapp":{
+      "rateappandroid_id":"",
+      "rateapp_ios_id":""
+    },
+    "refundLink":""
+}

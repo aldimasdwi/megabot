@@ -1,0 +1,80 @@
+{
+  "app_setting":{
+    "site_logo":"",
+    "favicon_icon": "MEGABOT",
+    "name":"",
+    "email":"",
+    "phone_number":"",
+    "address": "Laravel Multi Vendor Ecommerce",
+    "description": "Asia/Dhaka",
+    "facebook_url": "USD",
+    "twitter_url": "en",
+    "instagram": 0,
+    "linkedin": 1,
+    "youtube": "LTR",
+    "header_script": "LTR",
+    "footer": "MEGABOT"
+  },
+  "ads_Setting":{
+    "admob_publisher_id":"",
+    "admob_app_id": "MEGABOT",
+    "app_open_ads_id":"",
+    "native_id":"",
+    "native_display_type":"",
+    "banner_id": "Laravel Multi Vendor Ecommerce",
+    "banner_display_type": "Asia/Dhaka",
+    "rewarded_id": "USD",
+    "rewarded_display_type": "en",
+    "daily_limit_in_rewarded": 0,
+    "rewarded_word": 1,
+    "rewarded_image": "LTR",
+    "interstitial_banner_id": "LTR",
+    "interstitial_banner_display_type": "MEGABOT",
+    "click_between_interstitial_ad":""
+  },
+  "openAI_setting":{
+    "ChatGPT":""
+  },
+  "payment_setting":{
+    "currency":"",
+    "razorpay_key_id": "MEGABOT",
+    "razorpay_secret_key":"",
+    "stripe_publishable_key":"",
+    "stripe_secret_key":"",
+    "paypal_client_id": "Laravel Multi Vendor Ecommerce",
+    "paypal_secret_key": "Asia/Dhaka",
+    "in_app_payment_key": "USD",
+    "in_app_secret_key": "en"
+  },
+  "email_setting":{
+    "mail_mailer":"",
+    "mail_host": "MEGABOT",
+    "mail_port":"",
+    "mail_username":"",
+    "mail_password":"",
+    "mail_encryption": "Laravel Multi Vendor Ecommerce",
+    "mail_from_address": "Asia/Dhaka",
+    "mail_from_name": "USD"
+  },
+  "invoice_setting":{
+    "invoice_logo":"",
+    "invoice_prefix": "MEGABOT",
+    "invoice_number_digit":"",
+    "invoice_number_example":"",
+    "terms_and_conditions":""
+  },
+  "App_Update_Popup":{
+    "update_popup_show":"",
+    "new_app_version_code": "MEGABOT",
+    "description":"",
+    "app_link":""
+  },
+  "about_us":{
+    "about_us":"",
+    "refund_policy": "MEGABOT",
+    "privacy_policy":"",
+    "terms_condition":""
+  }
+
+
+}
